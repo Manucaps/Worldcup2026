@@ -102,3 +102,5 @@ def commenter_avec_ia(stats_texte):
 stats_resume = f"Mbappé : 10 buts en 8 matchs. Espagne vainqueur. 307 buts au total en 104 matchs."
 print("\n🤖 ANALYSE IA :")
 print(commenter_avec_ia(stats_resume))
+
+test
